@@ -10,4 +10,6 @@
 
 ### 使用
 - 输入 ’cur‘ 即可看到效果
+  ![展示当前连接的手机](https://github.com/egan-ysk/Alfredworkflow_current_activity/blob/master/images/image_01.png)
+  ![展示可见页面](https://github.com/egan-ysk/Alfredworkflow_current_activity/blob/master/images/image_02.png)
 - 在结果页面，点击回车会将页面名称自动复制到剪切板，便于粘贴
